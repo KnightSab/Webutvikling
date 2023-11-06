@@ -9,20 +9,20 @@ img {
 }
 
 body {
+  align-items: center;
 }
 
 h1 {
-  color: black;
+  color: whitesmoke;
 }
 
 body {
-  background-color: gray;
+  background-color: white;
 }
 
 div {
   max-width: 320px;
-  border: solid 5px black;
-  border-color: black;
+  border: solid 5px white;
   padding: 20px;
   margin-left: auto;
   margin-right: auto;
