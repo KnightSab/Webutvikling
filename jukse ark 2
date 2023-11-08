@@ -16,31 +16,31 @@
 }
 
 .one {
-  background-image: url(bjorn-are-with-andreassen-vPg790ZGCCM-unsplash.jpg);
-  background-position: bottom;
+  background-image: url(./images/lachlan-gowen-AG3EcbcQOjw-unsplash\\(1\).jpg);
 }
 
 .two {
-  background-image: url(munir-rani-DNMvqJ_kdCQ-unsplash.jpg);
+  background-image: url(./images/bryggen2.jpg);
+  background-position: bottom;
 }
 
 .three {
-  background-image: url(daniel-vogel-Jdvvs2JqKD0-unsplash.jpg);
+  background-image: url(./images/floien.jpg);
 }
 
 .four {
-  background-image: url(green-ant-XS45ISBr5xk-unsplash.jpg);
+  background-image: url(./images/utsikt1.jpg);
 }
 
 .info {
   padding: 40px 50px;
-  background-color: rgb(6, 16, 48);
+  background-color: rgb(8, 5, 21);
   color: #fefefe;
 }
 
 h1 {
   padding: 20px;
-  background-color: rgb(6, 16, 48);
+  background-color: rgb(8, 5, 21);
   color: #fefefe;
   border-radius: 10px;
 }

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Background images</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="bg-img one">
+      <h1>Velkommen til Bergen</h1>
+    </div>
+    <div class="info">
+      <h2>BERGEN</h2>
+      <p>
+        Drawn to the historic Bryggen and the city’s proximity to the fjords,
+        many thousands of tourists visit Bergen every day during the height of
+        the summer. It’s one of Norway’s most popular tourist destinations.
+      </p>
+    </div>
+    <div class="bg-img two"></div>
+    <div class="info">
+      <h2>BERGEN</h2>
+      <p>
+        Drawn to the historic Bryggen and the city’s proximity to the fjords,
+        many thousands of tourists visit Bergen every day during the height of
+        the summer. It’s one of Norway’s most popular tourist destinations.
+      </p>
+    </div>
+    <div class="bg-img three"></div>
+    <div class="info">
+      <h2>BERGEN</h2>
+      <p>
+        Drawn to the historic Bryggen and the city’s proximity to the fjords,
+        many thousands of tourists visit Bergen every day during the height of
+        the summer. It’s one of Norway’s most popular tourist destinations.
+      </p>
+    </div>
+    <div class="bg-img four"></div>
+    <div class="info">
+      <h2>BERGEN</h2>
+      <p>
+        Drawn to the historic Bryggen and the city’s proximity to the fjords,
+        many thousands of tourists visit Bergen every day during the height of
+        the summer. It’s one of Norway’s most popular tourist destinations.
+      </p>
+    </div>
+  </body>
+</html>
